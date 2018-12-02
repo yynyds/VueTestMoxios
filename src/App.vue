@@ -17,6 +17,7 @@
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank">awesome-vue</a></li>
     </ul>
     <div class="btn-div" @click="LoadData()">Load Data</div>
+    <p>Lorem ipsum dolor!</p>
   </div>
 </template>
 
